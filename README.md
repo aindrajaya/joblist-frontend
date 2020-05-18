@@ -1,3 +1,3 @@
 This is the Front End Mentor Challenges about Joblist with ReactJS and TailwindCSS
 
-<img src="https://imgur.com/a/jpSFdj8"/>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/jpSFdj8"><a href="//imgur.com/jpSFdj8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
