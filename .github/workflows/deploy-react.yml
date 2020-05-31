@@ -19,6 +19,7 @@ jobs:
       - name: Install Packages 🔧
         run: |
           npm install
+          npm run script build
 
       - name: Deploy to GH Pages🚀
         run: |
