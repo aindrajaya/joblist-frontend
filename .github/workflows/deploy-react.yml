@@ -27,5 +27,3 @@ jobs:
           GIT_PERSONAL_ACCESS_TOKEN: ${{ secrets.GIT_PERSONAL_ACCESS_TOKEN }}
           BRANCH: gh-pages
           FOLDER: dist
-        run: 
-          npm run deploy
