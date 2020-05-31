@@ -50,7 +50,7 @@ function App() {
   return (
     <>
       <header className='bg-teal-500 mb-12'>
-        <img className='w-full' src='/images/bg-header-desktop.svg' alt='bg-image'/>
+        <img className='w-full' src='./images/bg-header-desktop.svg'/>
       </header>
       <div className='container m-auto'>  
           {filters.length > 0 && (
