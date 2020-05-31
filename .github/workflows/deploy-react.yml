@@ -24,6 +24,7 @@ jobs:
       - name: Deploy to GH Pages🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          GIT_PERSONAL_ACCESS_TOKEN: ${{secrets.GIT_PERSONAL_ACCESS_TOKEN}}
+          ACCESS_TOKEN: ${{secrets.ACCESS_TOKEN}}
           BRANCH: gh-pages
           FOLDER: dist
+
