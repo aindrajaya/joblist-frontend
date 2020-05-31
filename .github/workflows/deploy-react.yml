@@ -21,13 +21,9 @@ jobs:
           npm install
           npm run-script build
 
-      - name: Install rsync 📚
-        run: |
-          apt-get update && apt-get install -y rsync
-
       - name: Deploy to GH Pages🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
-          GIT_PERSONAL_ACCESS_TOKEN: ${{ secrets.GIT_PERSONAL_ACCESS_TOKEN }}
+          GIT_PERSONAL_ACCESS_TOKEN: ${{secrets.GIT_PERSONAL_ACCESS_TOKEN}}
           BRANCH: gh-pages
           FOLDER: dist
