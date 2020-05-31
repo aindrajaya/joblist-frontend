@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/joblist-frontend/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/joblist-frontend/static/js/main.b71d78b3.chunk.js",
-    "main.js.map": "/joblist-frontend/static/js/main.b71d78b3.chunk.js.map",
+    "main.js": "/joblist-frontend/static/js/main.b6227ab5.chunk.js",
+    "main.js.map": "/joblist-frontend/static/js/main.b6227ab5.chunk.js.map",
     "runtime-main.js": "/joblist-frontend/static/js/runtime-main.b0673145.js",
     "runtime-main.js.map": "/joblist-frontend/static/js/runtime-main.b0673145.js.map",
     "static/js/2.edf2ea26.chunk.js": "/joblist-frontend/static/js/2.edf2ea26.chunk.js",
     "static/js/2.edf2ea26.chunk.js.map": "/joblist-frontend/static/js/2.edf2ea26.chunk.js.map",
     "index.html": "/joblist-frontend/index.html",
-    "precache-manifest.80868261c92716fc8a6d22b95f9f36c4.js": "/joblist-frontend/precache-manifest.80868261c92716fc8a6d22b95f9f36c4.js",
+    "precache-manifest.f03352e472bf2cfd091603816bf236a5.js": "/joblist-frontend/precache-manifest.f03352e472bf2cfd091603816bf236a5.js",
     "service-worker.js": "/joblist-frontend/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/joblist-frontend/static/css/main.5ecd60fb.chunk.css.map",
     "static/js/2.edf2ea26.chunk.js.LICENSE.txt": "/joblist-frontend/static/js/2.edf2ea26.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b0673145.js",
     "static/js/2.edf2ea26.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.b71d78b3.chunk.js"
+    "static/js/main.b6227ab5.chunk.js"
   ]
 }
