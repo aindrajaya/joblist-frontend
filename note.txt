@@ -1,0 +1,12 @@
+1. Client
+--> Setup React GitHub Pages
+--> Setup React GitHub Actions
+--> Add dockerfile to run GitHub Actions and GitHub Pages Automatically
+--> Redesign Frontend Search Feature (adding some intro section before search section)
+--> Add detail Jobs and Apply Button (Using React Router)
+
+2. Server
+--> Fetch the data
+
+3. Work
+--> Setting up when fetch the data
